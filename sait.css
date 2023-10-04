@@ -1,0 +1,90 @@
+.wrapper {
+    width: 1280px;
+    margin: 0 auto;
+}
+.logo {
+    display: flex;
+
+    margin: 0 auto;
+
+}
+
+nav ul {
+    text-align: center;
+    position: relative;
+    margin: 0;
+    padding: 0;
+    margin-bottom: 10px;
+}
+nav li {
+    display: inline-block;
+    text-decoration: none;
+    padding: 10px;
+    color: rgb(133, 42, 120);
+    font-size: 15pt;
+    margin: 0;
+    padding: 0;
+    margin-right: 20px;
+}
+nav a {
+    text-decoration: none;
+}
+hr {
+    margin: 0;
+}
+.banner img {
+    width: 100%;
+
+}
+.banner {
+    border-bottom: 1px solid black;
+}
+.novinki {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+.photo1 img{
+    width: 150px;
+    height: 150px;
+}
+h3 {
+    text-align: center;
+    font-size: 17pt;
+}
+.company p {
+    font-size: 15pt;
+}
+form {
+    width: 750px;
+    height: 400px;
+    margin: 0 auto;
+    text-align: right;
+}
+form input {
+    width: 500px;
+    height: 20px;
+    border-radius: 8px;
+    margin-right: 50px;
+}
+form p {
+    text-align: center;
+    font-size: 15pt;
+}
+form textarea {
+    width: 620px;
+}
+.buttons {
+    width: 250px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+}
+.buttons button {
+    background-color: #fff;
+    font-size: 14pt;
+    border-radius: 8px;
+}
+footer{
+    text-align: center;
+ }
